@@ -12,4 +12,4 @@
 
 - 📫 How to reach me *oporajitaazad@gmail.comm*
 
-- ⚡ Fun fact *. Dance artist of Nrittoshoily 
+- ⚡ Fun fact *. Dance artist at Nrittyashaily 
