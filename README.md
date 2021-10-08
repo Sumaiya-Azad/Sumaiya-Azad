@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shuvo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shuvo er bou</h1>
 <h3 align="center">A self-motivated IT professional with huge knowledge and proficiency in JavaScript, HTML , 
 CSS, React, Node.js, Express.js, MongoDB, Bootstrap, as well as strong skills and ability in 
 writing clean and efficient code, seeks the position of Full-Stack / Front-end Web Developer</h3>
