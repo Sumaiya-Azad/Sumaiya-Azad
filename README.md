@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently learning *OOP And Digital Marketing*
 
-- 📫 How to reach me *oporajitaazad@gmail.comm*
+- 📫 How to reach me *oporajitaazad@gmail.com*
 
 - ⚡ Fun fact *. Dance artist at Nrittyashaily 
